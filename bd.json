@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "title": "Buffalo Angus",
+    "description": "Blend de picanha com 180g no pão de beterraba, queijo prato, bacon, cebola caramelizada, regado ao divino molho de parmesão.",
+    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/28c72a6e-ab3a-4e06-b1ea-2f60db2aa2db/202110031721_56HX_i.jpg",
+    "price": 34.9
+  },
+  {
+    "id": 1,
+    "title": "Double Chees",
+    "description": "2 blends de 160g de fraldinha, no pão de parmesão e orégano, 2 fatias de queijo cheddar, cebola caramelizada e molho billy especial.",
+    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/28c72a6e-ab3a-4e06-b1ea-2f60db2aa2db/202110031723_S5F7_i.jpg",
+    "price": 41.3
+  },
+  {
+    "id": 2,
+    "title": "Salada Burgue",
+    "description": "Pão Brioche, Alface, Tomate, Cebola, Blend De 180g de Fraldinha, Bacon e Molho Cheddar Cremoso artesanal",
+    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/28c72a6e-ab3a-4e06-b1ea-2f60db2aa2db/202110031718_6MM4_i.jpg",
+    "price": 29.99
+  },
+  {
+    "id": 3,
+    "title": "Orion Burgue",
+    "description": "Blend de alcatra com 180g de carne no pão de batata, queijo cheddar, peperoni, ketchp heinz, cebola onion rings e molho de requeijão.",
+    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/28c72a6e-ab3a-4e06-b1ea-2f60db2aa2db/202102021516_mvuY_.jpeg",
+    "price": 27.99
+  },
+  {
+    "id": 4,
+    "title": "Mega Pepper Burgue",
+    "description": "Blend de 160g de carne apimentada no pão de batata, queijo cheddar, cebola caramelizada e o mega molho de requeijão.",
+    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/28c72a6e-ab3a-4e06-b1ea-2f60db2aa2db/202110031720_A2NR_i.jpg",
+    "price": 32.19
+  },
+  {
+    "id": 5,
+    "title": "Burguinho",
+    "description": "Pão Brioche, com 100g de carne e duas fatias de queijo cheddar.",
+    "image": "https://static-images.ifood.com.br/image/upload/t_medium/pratos/28c72a6e-ab3a-4e06-b1ea-2f60db2aa2db/202111101502_553B_i.jpg",
+    "price": 18.99
+  }
+]
